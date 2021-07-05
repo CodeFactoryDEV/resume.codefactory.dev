@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lyndon Michael Bibera
 
 You can use the [editor on GitHub](https://github.com/CodeFactoryDEV/resume.codefactory.dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
