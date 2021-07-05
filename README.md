@@ -1,2 +1,1 @@
-# resume.codefactory.dev
-Resume - Lyndon Michael Bibera
+# Lyndon Michael Bibera
