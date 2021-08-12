@@ -10,9 +10,9 @@
   - writing and code-reviewing changes 
 
 # My Experience
-- started as a full-stack developer using Grails, SpringBoot/Java, and JavaScript
-- moved to a startup company mainly to work as the backend API engineer, while occasionally working on the Web, Android, and iOS application
-- after that,  
+- 2011: started as a full-stack developer using Grails, SpringBoot/Java, and JavaScript
+- 2013: moved to a startup company mainly to work as the backend API engineer, while occasionally working on the Web, Android, and iOS application
+- 2016: after that i was engaged in working for another startup that specializes   
 
 # Common Questions
 - Strenght: 
