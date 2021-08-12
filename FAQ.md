@@ -3,4 +3,6 @@
 # Introduction
 - 
 
+# Common Questions
+- Strenght: 
 - Weakness: 
