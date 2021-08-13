@@ -27,4 +27,4 @@ Additional as the only person in the company functioning as DevOps:
 - Free time: educate myself on the latest updates and trends of the cloud and machine learning to keep pace with the ever-changing technology landscape
 - Conflict scenario: a co-worker forced us to compromise the design of an API, heated discussion ensued
 - Describe yourself in 3 words: independent, constant learner, realistic
-- Greatest Achievement: setup an MvP product from scratch which is a condition for the release of additional funding from investors
+- Greatest Achievement: setup an MvP product from scratch in 2 weeks which is a condition for the release of additional funding from investors
