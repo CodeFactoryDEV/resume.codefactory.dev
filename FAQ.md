@@ -21,7 +21,7 @@ Additional as the only person in the company functioning as DevOps:
 - setup monitoring tools in Cloudwatch
 
 # Common Questions
-- Strenght: generalist - experienced in a broad range of technical stacks, constant learner of new things
+- Strenght: generalist - experienced in a broad range of technical stacks, constant learner of new things - which I think could positively influence the direction of the company
 - Weakness: criticizing other peoples mistake, I hate confrontation - solved by automating criticism
 - Why this job: automating things is something Ive always been something I am passionate about, working for a big company gives me a better opportunity to collaborate and learn new things as well as contribute my learnings from my previous experiences
 - Free time: educate myself on the latest updates and trends of the cloud and machine learning to keep pace with the ever-changing technology landscape
