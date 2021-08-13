@@ -28,4 +28,4 @@ Additional as the only person in the company functioning as DevOps:
 - Conflict scenario: a co-worker forced us to compromise the design of an API, heated discussion ensued
 - Describe yourself in 3 words: independent, constant learner, realistic
 - Greatest Achievement: setup an MvP product from scratch in 2 weeks which is a condition for the release of additional funding from investors
-- Question: what are the main challenges that the company is facing?
+- Question: what are the difficult challenges that the company is facing right now?
