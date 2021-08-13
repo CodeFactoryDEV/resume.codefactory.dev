@@ -26,4 +26,5 @@ Additional as the only person in the company functioning as DevOps:
 - Why this job: automating things is something Ive always been something I am passionate about, working for a big company gives me a better opportunity to collaborate and learn new things as well as contribute my learnings from my previous experiences
 - Free time: educate myself on the latest updates and trends of the cloud and machine learning to keep pace with the ever-changing technology landscape
 - Conflict scenario: a co-worker forced us to compromise the design of an API, heated discussion ensued
-- Describe yourself in 3 words: independent, constant learner, automator
+- Describe yourself in 3 words: independent, constant learner, realistic
+- Greatest Achievement: setup an MvP product from scratch which is a condition for the release of additional funding from investors
