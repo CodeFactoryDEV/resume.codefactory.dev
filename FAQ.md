@@ -25,3 +25,5 @@ Additional as the only person in the company functioning as DevOps:
 - Weakness: criticizing other peoples mistake, I hate confrontation - solved by automating criticism
 - Why this job: automating things is something Ive always been something I am passionate about, working for a big company gives me a better opportunity to collaborate and learn new things as well as contribute my learnings from my previous experiences
 - Free time: educate myself on the latest updates and trends of the cloud and machine learning to keep pace with the ever-changing technology landscape
+- Conflict scenario: a co-worker forced us to compromise the design of an API, heated discussion ensued
+- Describe yourself in 3 words: independent, constant learner, automator
