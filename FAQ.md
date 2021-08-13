@@ -3,7 +3,7 @@
 # Introduction
 - Hi im L, and im here today for the Cloud DevOps Engineer role
 - Im currently working as the Cloud Architect specializing in AWS solutions
-- As an architect, my primary role is to propose, plan, design, and supervise the implementation of solutions to meet business needs
+- As an architect, my primary role is to propose, plan, design, and supervise the implementation of Cloud-native solutions to meet business needs
 - My duties also include hands-on work with scripting
 - Additionally, I also perform informal audits on security, operations, and cost-effectivity of solutions to check if they are aligned with modern standards
 - The rest of the time when Im not doing my architect role I am: 
