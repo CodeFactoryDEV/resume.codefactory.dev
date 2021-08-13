@@ -12,7 +12,9 @@
 # My Experience
 - 2011: started as a full-stack developer using Grails, SpringBoot/Java, and JavaScript
 - 2013: moved to a startup company mainly to work as the backend API engineer, while occasionally working on the Web, Android, and iOS application
-- 2016: after that i was engaged in working for another startup that specializes   
+- 2016: after that i was engaged in working for another startup that specializes in working with Big Data and analytics, working as a Data Engineer, API Engineer, as well as a part-time AWS DevOps 
+- 2019: move to a large organization working on a mobile bank as a backend engineer and team lead
+- 2020: at the present Im working primarily as a Cloud Architect with the day-to-day job of both DevOps and Backend engineer, dealing mostly with creating Terraform scripts, Spark Data pipelines, and SpringBoot applications, all of which are running 100% on AWS
 
 # Common Questions
 - Strenght: 
