@@ -1,6 +1,6 @@
 # FAQ
 
-# Introduction
+## Introduction
 - Hi im L, and im here today for the Cloud DevOps Engineer role
 - Im currently working as the Cloud Architect specializing in AWS solutions
 - As an architect, my primary role is to propose, plan, design, and supervise the implementation of Cloud-native solutions to meet business needs
@@ -9,7 +9,7 @@
 - The rest of the time when Im not doing my architect role I am: 
   - writing and code-reviewing changes 
 
-# My Experience
+## My Experience
 - 2011: started as a full-stack developer using Grails, SpringBoot/Java, and JavaScript
 - 2013: moved to a startup company mainly to work as the backend API engineer, while occasionally working on the Web, Android, and iOS application
 - 2016: after that i was engaged in working for another startup that specializes in working with Big Data and analytics, working as a Data Engineer, API Engineer, as well as a part-time AWS DevOps 
@@ -22,7 +22,7 @@ Additional as the only person in the company functioning as DevOps:
 - monitoring the infrastructure billing items and perform analysis on cost and savings
 - interview candidates and assist in the onboarding process
 
-# Common Questions
+## Common Questions
 - Strenght: generalist - experienced in a broad range of technical stacks, constant learner of new things - which I think could positively influence the direction of the company
 - Weakness: criticizing other peoples mistake, I hate confrontation - solved by automating criticism
 - Why this job: automating things is something Ive always been something I am passionate about, working for a big company gives me a better opportunity to collaborate and learn new things as well as contribute my learnings from my previous experiences
@@ -31,3 +31,9 @@ Additional as the only person in the company functioning as DevOps:
 - Describe yourself in 3 words: independent, constant learner, realistic
 - Greatest Achievement: setup an MvP product from scratch in 2 weeks which is a conditional milestone for the release of additional funding from investors
 - Question: what are the difficult challenges that the company is facing right now?
+
+## Final Interview (Selling Point)
+- experience with all the stacks (mobile, web, backend, data-processing, devops) 
+- constant learner
+- AWS certified
+
