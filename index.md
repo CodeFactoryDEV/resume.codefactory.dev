@@ -50,3 +50,19 @@ Lesson learned: ideas should be grounded in reality
 • Geo-spatial techniques using regular databases
 • Social media integration to access user profile
 • Google Analytics to observe user behaviour
+
+## Associate Software Engineer - Orange and Bronze Software Labs Inc. (Consulted for Multiple Accounts)
+A software consulting firm with local and overseas client. We often help modernize and re-architecture outdated systems, as well as apply industry best-practices - something that isnt talked about during that time.
+
+Worked on a couple of heavy projects as well as some mini projects for various companies as an outsourced personnel over the span of 2 years:
+• BDO-CLG: Credit Card User Portal
+• EMN8: Online Food Ordering System
+• Department of Education: Google Account Provisioning System Version 1.0
+• Smarthub Inc: Mobile Payment Gateway
+• Smart Communications Inc.: Product Offering Tool
+
+Note that I often switch between projects from time to time when there are development downtimes on some projects, hence the overlap in the time period.
+
+For a detailed story on each project, please check my individual entries below.
+
+Keywords: Spring Framework, Java
