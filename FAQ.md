@@ -35,7 +35,7 @@ Additional as the only person in the company functioning as DevOps:
 ## Final Interview (Selling Point)
 - experience with all the stacks (mobile, web, backend, data-processing, devops) 
 - constant learner
-- AWS certified solutions architect
+- AWS certified solutions architect -  brings us one step closer as AWS partner
 - Architect experience - brings me closer to collaborating with business entitites
 - Developer experience - empathy to devs
 - Support experience - when things go wrong
